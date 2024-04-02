@@ -590,7 +590,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .social-item-links-footer {
     display: flex;
         justify-content: space-between;
-           padding-top: 16px;
+           /* padding-top: 16px; */
         width: 208px;
         gap: 16px;
 }
@@ -611,6 +611,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .subscribe-footer {
+    margin-left: 80px;
 
 }
 
@@ -621,6 +622,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
+        margin-bottom: 16px;
 }
 
 .subscribe-form {
