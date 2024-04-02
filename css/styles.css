@@ -723,6 +723,10 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin-bottom: 8px;
 }
 
+.review-form-field-wrapper-message {
+    margin-bottom: 16px;
+}
+
 .review-form-input-wrapper {
     position: relative;
 }
